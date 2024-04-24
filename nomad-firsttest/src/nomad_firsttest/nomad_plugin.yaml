@@ -1,0 +1,7 @@
+plugin_type: "schema"
+name: "firsttest"
+description: |
+  "testing the new plugin generator"
+
+
+
